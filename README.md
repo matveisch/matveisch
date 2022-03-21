@@ -33,6 +33,7 @@
 7. Image Slider: https://github.com/matveisch/dynamic-inteface
 8. Weather App: https://github.com/matveisch/weather-app
 9. Battleship: https://github.com/matveisch/battleship
+10. Memory Card (React): https://github.com/matveisch/memory-card
 
 ### Связаться со мной:
 * email: matveisch@icloud.com
