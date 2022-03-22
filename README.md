@@ -31,8 +31,8 @@
 5. Library: https://github.com/matveisch/library
 6. Todo List: https://github.com/matveisch/todo-list
 7. Image Slider: https://github.com/matveisch/dynamic-inteface
-8. Weather App: https://github.com/matveisch/weather-app
-9. Battleship: https://github.com/matveisch/battleship
+8. Weather App (API): https://github.com/matveisch/weather-app
+9. Battleship (Jest): https://github.com/matveisch/battleship
 10. CV editor (React): https://github.com/matveisch/cv-with-hooks
 11. Memory Card (React): https://github.com/matveisch/memory-card
 
