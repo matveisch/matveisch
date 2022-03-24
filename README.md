@@ -16,14 +16,9 @@
 - Git, GitHub
 - React
 
-### Хроника обучения:
-1. Сентябрь 2021 – начало учебы
-2. Ноябрь – декабрь 2021 – учеба в Roma 42
-3. Декабрь 2021 – наст. вр. 
-
+### Ссылки на основные проекты:
 Все проекты в этом списке выполнялись мной самостоятельно, у меня не было никаких туториалов. Все, на что я опирался – страница описания проекта на The Odin Project. В readme проектов есть ссылка на нее. 
 
-### Ссылки на основные проекты:
 1. Etch-A-Sketch: https://github.com/matveisch/etch-a-sketch
 2. Rock-Paper-Scissors: https://github.com/matveisch/rock-paper-scissors
 3. Tic-Tac-Toe: https://github.com/matveisch/tic-tac-toe
