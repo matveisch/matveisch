@@ -30,7 +30,3 @@
 9. Battleship (Jest): https://github.com/matveisch/battleship
 10. CV editor (React): https://github.com/matveisch/cv-with-hooks
 11. Memory Card (React): https://github.com/matveisch/memory-card
-
-### Связаться со мной:
-* email: matveisch@icloud.com
-* telegram: @matveisch
