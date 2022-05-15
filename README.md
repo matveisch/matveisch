@@ -17,12 +17,8 @@
 - React
 - Redux
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveisch&layout=compact&theme=darcula)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matveisch&count_private=true&hide=prs,issues,contribs&theme=darcula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matveisch&count_private=true&hide=prs,issues,contribs&theme=darcula&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matveisch&layout=compact&theme=darcula" />
