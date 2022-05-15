@@ -7,19 +7,13 @@
 ### Английский
 Все мое обучение проходит исключительно на английском языке. Обучение в School 42 тоже проходило на английском. Спокойно пишу на английском, читаю документацию, смотрю видео и общаюсь. Уровень языка – upper-intermediate/advanced.
 
+### Education 
+09.21-03.22 – The Odin Project Course
+11.21-12.21 – Roma 42
+
 ### Мой stack:
-- HTML
-- CSS, Sass (flexbox, grid)
-- ES6
+- HTML, CSS, Sass
+- JS
 - Jest
 - Webpack
-- Git, GitHub
-- React
-- Redux
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matveisch&count_private=true&hide=prs,issues,contribs&theme=darcula&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matveisch&layout=compact&theme=darcula" />
-</a>
+- React, Redux
