@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matveisch&count_private=true&theme=darcula&show_icons=true&hide=prs,issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveisch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveisch&layout=compact&theme=darcula)
 
 Я уже почти пол года занимаюсь самостоятельным изучением программирования с помощью проекта The Odin Project. Мое обучение основано на создании проектов – каждый раз, изучая что то новое, я сразу применяю знания на практике. На данный момент неплохо владею чистым ES6, хорошо знаю HTML и CSS, разбираюсь в основах React. Перечень всех инструментов, которыми я владею, описан ниже в части "Мой Stack".
 
