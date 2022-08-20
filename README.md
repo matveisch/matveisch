@@ -4,7 +4,8 @@
   <li>HTML</li>
   <li>Figma</li>
   <li>Git, GitHub</li>
-  <li>JS, React, Redux</li>
+  <li>JS, TypeScript</li>
+  <li>React, Redux</li>
   <li>Jest</li>
   <li>Webpack</li>
 </ul>
