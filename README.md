@@ -1,4 +1,4 @@
-<h2>Hey, I'm Matvei 👋</br></br> a skilled front-end developer with two years of overall experience and over a year of a professional one</h2>
+<h2>Hey, I'm Matvei 👋</br></br> A self-taught front-end react developer with more than a year of working experience</h2>
 <h3 align="left">Languages and Tools:</h3>
 <ul>
   <li>CSS, Sass</li>
