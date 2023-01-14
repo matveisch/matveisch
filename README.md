@@ -18,5 +18,3 @@
   <li>Next</li>
   <li>MUI</li>
 </ul>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveisch&layout=compact&langs_count=8&theme=github_dark)
