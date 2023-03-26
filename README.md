@@ -1,5 +1,5 @@
 <h2>Hey, I'm Matvei 👋 </h2>
-<h2>A self-taught full-stack developer. Great at writing web app with React over TypeScript.</h2>
+<h2>A self-taught full-stack developer. Great at writing web apps with TypeScript.</h2>
 <h3 align="left">Languages and Tools:</h3>
 <ul>
   <li>HTML</li>
